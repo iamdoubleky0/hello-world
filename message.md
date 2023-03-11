@@ -10,3 +10,4 @@
 &lt;p&gt;This is the first file in my new Git Repo.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
+It now includes steps for Github
