@@ -10,5 +10,7 @@
 &lt;p&gt;This is the first file in my new Git Repo.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
+
 It now includes steps for Github
-This tutorial focuses mainly on git and using github as its remote.
+
+This tutorial focuses mainly on git and using github as its remote
